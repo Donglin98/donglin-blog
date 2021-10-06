@@ -1,1 +1,7 @@
-package donglin_blog
+package main
+
+import "fmt"
+
+func main() {
+	fmt.Println("hello bloggo")
+}
